@@ -23,15 +23,15 @@ https://www.tomshardware.com/news/odroid-h2-an-x86-board-to-challenge-raspberry-
     
 ### Interesting links about other Odroid H2+ projects
 
-https://wiki.odroid.com/odroid-h2/application_note/autostart_when_power_applied
+   https://wiki.odroid.com/odroid-h2/application_note/autostart_when_power_applied
 
-https://wiki.odroid.com/odroid-h2/application_note/howto_wifi_driver_rtl8812au
+   https://wiki.odroid.com/odroid-h2/application_note/howto_wifi_driver_rtl8812au
 
-https://wiki.odroid.com/odroid-h2/application_note/install_ethernet_driver_on_h2plus
+   https://wiki.odroid.com/odroid-h2/application_note/install_ethernet_driver_on_h2plus
 
-https://wiki.odroid.com/odroid-h2/application_note/6_bay_nas_with_sw_raid
+   https://wiki.odroid.com/odroid-h2/application_note/6_bay_nas_with_sw_raid
 
-https://wiki.odroid.com/odroid-h2/application_note/10_sata_drives
+   https://wiki.odroid.com/odroid-h2/application_note/10_sata_drives
 
 
 ## Initial OS
