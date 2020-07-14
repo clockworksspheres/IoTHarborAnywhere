@@ -45,4 +45,7 @@ https://github.com/clockworksspheres/oci-containers/tree/dev/cs-containers/os-ba
 
 https://github.com/7error/kkkbox.git
 
+# project wiki 
+will contain more in depth information on the project - the associated organization project holds the kanban board for the project.
+
 
