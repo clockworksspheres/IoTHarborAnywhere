@@ -51,8 +51,12 @@ https://github.com/clockworksspheres/oci-containers/tree/dev/cs-containers/os-ba
 
 https://github.com/7error/kkkbox.git
 
-# project wiki 
+# [Project wiki](https://github.com/clockworksspheres/IoTHarborAnywhere) 
 
 Will contain more in depth information on the project - the associated organization project holds the kanban board for the project.
+
+# [Project Kanban page](https://github.com/orgs/clockworksspheres/projects/1)
+
+For more information, collaboration opportunities, or to share/learn some cool stuff, please email roy.nielsen17@gmail.com
 
 
