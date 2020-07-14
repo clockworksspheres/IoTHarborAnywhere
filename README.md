@@ -5,9 +5,9 @@ IoT Harbor service, one can take anywhere! - initially based on the Odroid H2+, 
 ## Initial Hardware
 
 Odroid H2+
-
 32Gb DDR4 memory
 256Gb M.2 SSD for the OS
+2T Samsung 960 2.5inch SSD
 
 ### Links to the hardware platform:
 
