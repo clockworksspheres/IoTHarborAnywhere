@@ -7,6 +7,7 @@ IoT Harbor service, one can take anywhere! - initially based on the Odroid H2+, 
 Odroid H2+
   32Gb DDR4 memory
   256Gb M.2 SSD for the OS
+
     ### Links to the hardware platform:
     https://wiki.odroid.com/odroid-h2/start
 
@@ -16,8 +17,23 @@ Odroid H2+
     ### reviews:
     https://www.tomshardware.com/news/odroid-h2-an-x86-board-to-challenge-raspberry-pi
     
+    ### Interesting links about other Odroid H2+ projects
+    https://wiki.odroid.com/odroid-h2/application_note/autostart_when_power_applied
+
+    https://wiki.odroid.com/odroid-h2/application_note/howto_wifi_driver_rtl8812au
+
+    https://wiki.odroid.com/odroid-h2/application_note/install_ethernet_driver_on_h2plus
+
+    https://wiki.odroid.com/odroid-h2/application_note/6_bay_nas_with_sw_raid
+
+    https://wiki.odroid.com/odroid-h2/application_note/10_sata_drives
+
 
 ## Initial OS
+
+Debian 10
+### Initial OS installed requires the following dkms
+
 
 ## Initial Harbor setup
 
