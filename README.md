@@ -40,6 +40,11 @@ Debian 10
 
 ### Initial OS installed requires the following dkms
 
+### Additional packages/software might be handy on initial install, or in the configured container library
+
+nomachine (commercial) or x2go (open source) \
+xvfb \
+synergy
 
 ## Initial Harbor setup
 
