@@ -1,5 +1,7 @@
 # IoTHarborAnywhere
 
+For active notes on the project see the [IoTHarborAnywhere Wiki](https://github.com/clockworksspheres/IoTHarborAnywhere.wiki)
+
 IoT Harbor service, one can take anywhere! - initially based on the Odroid H2+, Debian 10 and 7error's Harbor repo
 
 ## Initial Hardware
