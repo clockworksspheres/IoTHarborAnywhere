@@ -13,17 +13,9 @@ Odroid H2+ \
 256Gb M.2 NVME SSD for the OS \
 2T Samsung 960 2.5inch SSD 
 
-### Links to the hardware platform:
+Link to the hardware platform: https://wiki.odroid.com/odroid-h2/start
 
-https://wiki.odroid.com/odroid-h2/start
-
-### to purchase:
-
-https://www.hardkernel.com/shop/odroid-h2plus/
-
-### reviews:
-
-https://www.tomshardware.com/news/odroid-h2-an-x86-board-to-challenge-raspberry-pi
+Review: https://www.tomshardware.com/news/odroid-h2-an-x86-board-to-challenge-raspberry-pi
     
 ### Interesting links about other Odroid H2+ projects
 
@@ -38,31 +30,7 @@ https://www.tomshardware.com/news/odroid-h2-an-x86-board-to-challenge-raspberry-
    https://wiki.odroid.com/odroid-h2/application_note/10_sata_drives
 
 
-## Initial OS
-
-Debian 10
-
-### Initial OS installed requires the following dkms
-
-### Additional packages/software might be handy on initial install, or in the configured container library
-
-nomachine (commercial) or x2go (open source) \
-xvfb \
-synergy
-
-## Initial Harbor setup
-
-The initial Harbor setup is based on the 7error harbor github repo - https://github.com/7error/docker-harbor
-
-## Initial containers will be based on:
-
-https://github.com/clockworksspheres/oci-containers/tree/dev/cs-containers/os-based/centos
-
-https://github.com/7error/kkkbox.git
-
 # [Project wiki](https://github.com/clockworksspheres/IoTHarborAnywhere/wiki)
-
-Will contain more in depth information on the project - the associated organization project holds the kanban board for the project.
 
 # [Project Kanban page](https://github.com/orgs/clockworksspheres/projects/1)
 
