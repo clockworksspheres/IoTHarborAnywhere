@@ -6,6 +6,8 @@ IoT Harbor service, one can take anywhere! - initially based on the Odroid H2+, 
 
 ## Initial Hardware
 
+Bill of Materials - [BoM](https://github.com/clockworksspheres/IoTHarborAnywhere/wiki/BoM) 
+
 Odroid H2+ \
 32Gb DDR4 memory \
 256Gb M.2 NVME SSD for the OS \
