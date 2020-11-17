@@ -1,0 +1,3 @@
+[submodule "oci-containers"]
+	path = oci-containers
+	url = https://github.com/clockworksspheres/oci-containers.git
